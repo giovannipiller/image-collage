@@ -1,11 +1,11 @@
 {
   "name": "@mtblc/image-collage",
   "version": "0.1.0",
-  "description": "Turns an array of images into a photo collage", 
+  "description": "Turns an array of images into a photo collage",
   "main": "index.js",
   "author": "Nicolás Gómez Espejo",
   "homepage": "https://github.com/mtblc/image-collage",
-  "repository":  "git://github.com/mtblc/image-collage.git",
+  "repository": "git://github.com/mtblc/image-collage.git",
   "bugs": {
     "url": "https://github.com/mtblc/image-collage/issues"
   },
@@ -16,9 +16,9 @@
   },
   "dependencies": {
     "bluebird": "^3.7.1",
-    "canvas": "^2.6.0",
+    "canvas": "^2.11.2",
     "esm": "^3.2.25",
-    "image-size": "^0.8.3",
+    "image-size": "1.0.2",
     "request": "^2.88.0"
   },
   "devDependencies": {
